@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-05-15T08:55:53.241613954Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-05-15T08:57:46.226382356Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "46669e05-08f4-4451-bfb7-39e8ba5e75be",
     "homepageId": "52de22d5-3098-4ae2-a786-be6986e43060"
@@ -13,8 +13,8 @@
     "description": "",
     "subtitle": "",
     "address": "경기 가평군 가평읍 당목가일길 645",
-    "latitude": 0,
-    "longitude": 0,
+    "latitude": 37.8781837929559,
+    "longitude": 127.578317702537,
     "contactPhone": "010-5052-8006",
     "contactEmail": "",
     "checkin": "15:00",
@@ -280,7 +280,7 @@
           {
             "id": "d0f34e84-3040-4d05-bc92-0304cfd504d6",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/46669e05-08f4-4451-bfb7-39e8ba5e75be/exterior/1778834319289-45s51o67qi.jpg",
-            "sortOrder": 11,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -288,7 +288,7 @@
           {
             "id": "60fb8f85-0e45-4e12-9252-0517395a418b",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/46669e05-08f4-4451-bfb7-39e8ba5e75be/exterior/1778834319148-67viivu6t2.jpg",
-            "sortOrder": 12,
+            "sortOrder": 11,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -296,7 +296,7 @@
           {
             "id": "426b9e8d-b5e2-42f1-b584-a8c315b39890",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/46669e05-08f4-4451-bfb7-39e8ba5e75be/exterior/1778834319289-fjcoy7b7te.jpg",
-            "sortOrder": 13,
+            "sortOrder": 12,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -304,7 +304,7 @@
           {
             "id": "66446e17-5023-4c85-b2bb-f742e22f6003",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/46669e05-08f4-4451-bfb7-39e8ba5e75be/exterior/1778834319279-ocs3w345vj.jpg",
-            "sortOrder": 14,
+            "sortOrder": 13,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -312,7 +312,7 @@
           {
             "id": "7ced9ccf-50c6-41ce-89b2-3bc7202ff810",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/46669e05-08f4-4451-bfb7-39e8ba5e75be/exterior/1778834319287-jer6aphou0.jpg",
-            "sortOrder": 15,
+            "sortOrder": 14,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1362,8 +1362,7 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/52de22d5-3098-4ae2-a786-be6986e43060/main_about/1778834422501-m4m9t4i0z2.jpg",
                       "sortOrder": 0,
                       "description": "",
-                      "isSelected": true,
-                      "blockId": "c5bb0474-d0dc-4130-879f-9fe07f8b11f7"
+                      "isSelected": true
                     }
                   ],
                   "blockId": "c5bb0474-d0dc-4130-879f-9fe07f8b11f7",
