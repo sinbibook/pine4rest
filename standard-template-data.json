@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-05-15T08:57:46.226382356Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-05-18T07:38:11.689808133Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "46669e05-08f4-4451-bfb7-39e8ba5e75be",
     "homepageId": "52de22d5-3098-4ae2-a786-be6986e43060"
@@ -1259,7 +1259,16 @@
               },
               "closing": {
                 "title": "",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "a0136198-c61f-4823-93a3-bec58376b4f0",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/52de22d5-3098-4ae2-a786-be6986e43060/index_closing/1779089734939-4mklmkmlom.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image",
                 "description": ""
@@ -1289,15 +1298,65 @@
                 "description": "A Peaceful Healing Stay In The Nature Of Pine Forest Glamping & Pension"
               },
               "gallery": {
-                "title": "",
-                "images": [ ],
+                "title": "Preview",
+                "images": [
+                  {
+                    "id": "36ce7613-a083-4ef1-8112-c2ec35ea9daf",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/52de22d5-3098-4ae2-a786-be6986e43060/index_gallery/1779089734973-qtx1e2n3y1.jpg",
+                    "sortOrder": 0,
+                    "description": "글램핑장",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "c50dc7eb-0492-44ed-a1ae-7df8b9bae5a5",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/52de22d5-3098-4ae2-a786-be6986e43060/index_gallery/1779089734937-kdgkgzddor.jpg",
+                    "sortOrder": 1,
+                    "description": "계곡",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "b4c4a57d-6bfa-43e9-b1b4-f87b7fd4bd6a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/52de22d5-3098-4ae2-a786-be6986e43060/index_gallery/1779089734911-9o830yifcq.jpg",
+                    "sortOrder": 2,
+                    "description": "불멍",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "6e9fc3b6-d4f2-4f43-8319-413f031b8e90",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/52de22d5-3098-4ae2-a786-be6986e43060/index_gallery/1779089734896-tos5ssc7me.jpg",
+                    "sortOrder": 3,
+                    "description": "산책로",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "b7a4d78f-d77b-47e6-9ff9-4d85ae1838eb",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/52de22d5-3098-4ae2-a786-be6986e43060/index_gallery/1779089734942-jdweku06or.jpg",
+                    "sortOrder": 4,
+                    "description": "개별바베큐",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": ""
+                "description": " "
               },
               "signature": {
                 "title": "",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "60ce330e-dc67-478c-8fa3-5a04480204f6",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/52de22d5-3098-4ae2-a786-be6986e43060/index_signature/1779089828840-qon991zov7.jpg",
+                    "sortOrder": 0,
+                    "description": "숲과 산속의 여유를 온전히 느끼는 가평 파인포레스트 글램핑🌿 🍃",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image",
                 "description": ""
@@ -1362,7 +1421,8 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/52de22d5-3098-4ae2-a786-be6986e43060/main_about/1778834422501-m4m9t4i0z2.jpg",
                       "sortOrder": 0,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "c5bb0474-d0dc-4130-879f-9fe07f8b11f7"
                     }
                   ],
                   "blockId": "c5bb0474-d0dc-4130-879f-9fe07f8b11f7",
