@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.13.0",
-    "generatedAt": "2026-06-09T03:32:39.173366804Z",
+    "version": "1.14.0",
+    "generatedAt": "2026-06-15T05:57:37.625269345Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "46669e05-08f4-4451-bfb7-39e8ba5e75be",
     "homepageId": "52de22d5-3098-4ae2-a786-be6986e43060"
@@ -51,7 +51,7 @@
       "businessEmail": "0000@naver.com",
       "businessType": "individual",
       "businessCategory": "숙박업",
-      "eCommerceRegistrationNumber": "2014-경기가평-55호",
+      "eCommerceRegistrationNumber": "2014-경기가평-55",
       "ecommerceRegistrationNumber": ""
     },
     "contractInfo": {
@@ -96,39 +96,6 @@
           {
             "id": "ada4117e-4f41-434e-8e6b-cae2df5f7504",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/666f4f50-5d1a-408d-b541-f8b6ab9bd756/main/1778834284202-f6b2i0fmxh.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          }
-        ]
-      },
-      {
-        "id": "070352ce-b105-49e2-a133-29381a7f92ff",
-        "name": "불멍",
-        "description": " ",
-        "usageGuide": "- 모닥불불멍 : 20,000원(1박기준/현장결제)",
-        "displayOrder": 2,
-        "images": [
-          {
-            "id": "f83955a4-3fc2-46b6-bb3a-91140d92c8d5",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/070352ce-b105-49e2-a133-29381a7f92ff/main/1778834285077-f6fqq1rado.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "ae80aff6-2a65-439e-b283-8404cf14ced0",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/070352ce-b105-49e2-a133-29381a7f92ff/main/1778834285095-lpqpv61xc2.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "c12ec3e9-a9eb-4304-b765-191f02f974b6",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/070352ce-b105-49e2-a133-29381a7f92ff/main/1778834285098-r0uobvqlkq.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
@@ -182,7 +149,9 @@
     "refundSettings": {
       "customerRefundNotice": "",
       "immediateRefundEnabled": false,
-      "immediateRefundTimeLimit": "60"
+      "immediateRefundTimeLimit": "60",
+      "immediateRefundMinuteLimit": "60",
+      "sameDayReservationHourLimit": null
     },
     "images": [
       {
