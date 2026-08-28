@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.21.0",
-    "generatedAt": "2026-08-28T07:16:18.855217651Z",
+    "version": "1.22.0",
+    "generatedAt": "2026-08-28T07:18:12.396531512Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "46669e05-08f4-4451-bfb7-39e8ba5e75be",
     "homepageId": "52de22d5-3098-4ae2-a786-be6986e43060"
@@ -2328,15 +2328,15 @@
                 "title": " ",
                 "images": [
                   {
-                    "id": "41b68a95-4285-4b5a-9daa-3726ba3c6fd4",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/52de22d5-3098-4ae2-a786-be6986e43060/main_hero/1778834422492-scn4l8hzai.jpg",
+                    "id": "407348f1-25c0-4e3a-99c6-c7d2647be076",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/52de22d5-3098-4ae2-a786-be6986e43060/main_hero/1787901490381-96iukh45ad.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   }
                 ],
-                "description": " 푸른 숲과 맑은 계곡이 어우러진 자연 속, \n파인포레스트펜션에서 여유로운 휴식을 즐겨보세요.\n새소리와 물소리, 시원한 바람이 일상의 피로를 편안하게 달래줍니다.\n가족, 연인, 친구와 함께 산책과 물놀이, 자연 속 힐링을 마음껏 만끽할 수 있습니다.\n저녁에는 숯불 바베큐와 함께 밤하늘 가득한 별을 바라보며 특별한 시간을 보내보세요.\n지친 일상에서 벗어나 새로운 에너지를 채워가는 여행을 파인포레스트펜션에서 함께하시기 바랍니다."
+                "description": "계절의 색이 깊어지는 숲속,\n선선한 바람을 따라 여유로운 하루가 시작됩니다.\n복잡한 일상은 잠시 내려놓고\n자연과 가까워지는 편안한 쉼을 만나보세요."
               },
               "about": [
                 {
