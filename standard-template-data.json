@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.19.0",
-    "generatedAt": "2026-08-28T07:13:47.672766393Z",
+    "version": "1.20.0",
+    "generatedAt": "2026-08-28T07:14:21.745309060Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "46669e05-08f4-4451-bfb7-39e8ba5e75be",
     "homepageId": "52de22d5-3098-4ae2-a786-be6986e43060"
@@ -2203,16 +2203,16 @@
                 "title": "선선한 바람과 따스한 햇살이 머무는 계절, 한층 깊어진 숲의 풍경 속에서 여유로운 하루를 만나보세요. 테라스에서 즐기는 바비큐와 밤하늘 아래의 불멍까지, 파인포레스트에서 가을의 정취를 천천히 누릴 수 있습니다.",
                 "images": [
                   {
-                    "id": "4e493f92-da30-42df-8164-89dd89419dd3",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/52de22d5-3098-4ae2-a786-be6986e43060/index_essence/1787901151617-ful9701qf7.jpg",
+                    "id": "af3bd702-f992-4b6c-a302-7b566acc9eb3",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/52de22d5-3098-4ae2-a786-be6986e43060/index_essence/1787901259015-10kkz9zaaj.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "f1ccdbd2-0e4d-4be2-9b6c-15bee7655076",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/52de22d5-3098-4ae2-a786-be6986e43060/index_essence/1787901151617-84pjmbxoy0.jpg",
+                    "id": "308c6940-eb44-4334-afb2-ce1d43c8e0a0",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/52de22d5-3098-4ae2-a786-be6986e43060/index_essence/1787901259017-cs6n5tjao6.jpg",
                     "sortOrder": 1,
                     "description": "",
                     "isSelected": true,
