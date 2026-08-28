@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.25.0",
-    "generatedAt": "2026-08-28T07:26:55.243554787Z",
+    "version": "1.26.0",
+    "generatedAt": "2026-08-28T07:27:15.045229666Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "46669e05-08f4-4451-bfb7-39e8ba5e75be",
     "homepageId": "52de22d5-3098-4ae2-a786-be6986e43060"
@@ -56,8 +56,7 @@
       "businessEmail": "",
       "businessType": "corporate",
       "businessCategory": "숙박업",
-      "eCommerceRegistrationNumber": "2014-경기가평-55",
-      "ecommerceRegistrationNumber": ""
+      "eCommerceRegistrationNumber": "2014-경기가평-55"
     },
     "contractInfo": {
       "contractStartDate": "2025-09-10T00:00:00.000Z",
@@ -2392,6 +2391,19 @@
             }
           ]
         },
+        "nearbyAttractions": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              },
+              "about": [ ],
+              "enabled": false
+            }
+          ]
+        },
         "layoutMap": {
           "sections": [
             {
@@ -2405,19 +2417,6 @@
                 "images": [ ],
                 "description": ""
               },
-              "enabled": false
-            }
-          ]
-        },
-        "nearbyAttractions": {
-          "sections": [
-            {
-              "hero": {
-                "title": "",
-                "images": [ ],
-                "description": ""
-              },
-              "about": [ ],
               "enabled": false
             }
           ]
