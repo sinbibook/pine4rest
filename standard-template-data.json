@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.20.0",
-    "generatedAt": "2026-08-28T07:14:21.745309060Z",
+    "version": "1.21.0",
+    "generatedAt": "2026-08-28T07:16:18.855217651Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "46669e05-08f4-4451-bfb7-39e8ba5e75be",
     "homepageId": "52de22d5-3098-4ae2-a786-be6986e43060"
@@ -2275,10 +2275,10 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "60ce330e-dc67-478c-8fa3-5a04480204f6",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/52de22d5-3098-4ae2-a786-be6986e43060/index_signature/1779089828840-qon991zov7.jpg",
+                    "id": "40930972-afc5-4a00-80df-ac8bc003ed02",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/52de22d5-3098-4ae2-a786-be6986e43060/index_signature/1787901376630-ji626uohx7.jpg",
                     "sortOrder": 0,
-                    "description": "숲과 산속의 여유를 온전히 느끼는 가평 파인포레스트 글램핑🌿 🍃",
+                    "description": "계절과 가까워지는 곳,\n가을의 여유를 만나보세요.",
                     "isSelected": true,
                     "blockId": null
                   }
