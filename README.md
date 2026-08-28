@@ -1,1 +1,1 @@
-# pine4rest
+# template-full-banner-slider-flat Template
